@@ -14,6 +14,9 @@ export default function Header() {
                     <li><a href="" >Support</a></li>
                 </ul>
             </nav>
+            <div className="header-line">
+                <h1>Immersive experiences that deliver</h1>
+            </div>
         </header>
     );
 }
